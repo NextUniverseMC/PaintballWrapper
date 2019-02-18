@@ -1,0 +1,5 @@
+name: PaintballWrapper
+description: Wraps paintball
+main: org.nextuniverse.paintballwrapper.Main
+version: 1.0
+author: TheDiamondPicks
